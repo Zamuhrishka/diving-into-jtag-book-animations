@@ -6,8 +6,8 @@ A Comprehensive Guide to Debugging, Testing, and Securing Embedded Systems with 
 
 This repo contain the gif animations for [Diving into JTAG](https://leanpub.com/divingintojtag) book.
 
-- [Chapter 1 Gif Animation](gifs\ch1\chapter1.md)
-- [Chapter 3 Gif Animation](gifs\ch1\chapter3.md)
+- [Chapter 1 Gif Animation](https://github.com/Zamuhrishka/diving-into-jtag-book-animations/blob/master/gifs/ch1/chapter1.md)
+- [Chapter 3 Gif Animation](https://github.com/Zamuhrishka/diving-into-jtag-book-animations/blob/master/gifs/ch3/chapter3.md)
 
 Diving into JTAG is your ultimate guide to understanding and mastering the JTAG protocol, a critical tool for embedded systems development. Whether you are an engineer, student, or enthusiast, this book provides a clear and comprehensive exploration of JTAG, from its fundamental principles to advanced applications.
 
